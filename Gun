@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>GUNS</title>
+</head>
+<body>
+<div style="background-colour:white;colour:blue; padding: 20px;">
+<h1> GUNS TO BE USED</h1>
+<p> Guns are used for many purposes</p> 
+<p>Example are; for security</p>
+<h1>PICTURES OF GUNS</h1>
+<img src="img3.jpg" width="200" height ="200">
+<b> PISTOL</b>
+<img src="img4.jpg" width="200" height="200">
+<b> RIFLE</b>
+<p><b> This site helps you to purchase different kinds of guns for your different purposes</b>
+<p> Guns are not only used for negative purposes but also for positive purposes</p>
+<p><ins> Other names of guns</ins>
+<pre>
+>MACHINE GUN
+>SHOT GUN
+>ASSAULT RIFLE
+>AK-47
+>AKM
+>AN-94
+>ARMALIFE
+>UZI
+<a href="apex guns/index . html">FOR MORE INFO</a>
+</body>
+</html>:
